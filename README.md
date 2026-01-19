@@ -1,6 +1,6 @@
 # PostgreSQL DBA Starter Kit (Docker) — Mini Proyecto
 
-Mini proyecto práctico (2–3 horas) para demostrar bases de **DBA**:
+Mini proyecto práctico para demostrar bases de **DBA**:
 - Entorno reproducible con Docker Compose (PostgreSQL + pgAdmin)
 - Esquema normalizado (clientes, ordenes, pagos) con PK/FK + índices
 - Rol con permisos limitados (`app_user`)
