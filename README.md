@@ -1,5 +1,7 @@
 # PostgreSQL DBA Starter Kit (Docker) — Mini Proyecto
 
+![Imagen de VsCode](Images/1img.png)
+
 Mini proyecto práctico para demostrar bases de **DBA**:
 - Entorno reproducible con Docker Compose (PostgreSQL + pgAdmin)
 - Esquema normalizado (clientes, ordenes, pagos) con PK/FK + índices
